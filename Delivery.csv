@@ -1,0 +1,96 @@
+TrackNumber,DeliveryDate,Status,OrderID,BuildingName,BuildingNumber,Street,City,Country,Postcode
+7068414651,2024/8/30,Delivered,ORD4641,Suite 487,5685,Dawn Gateway,Deannaville,Tuvalu,75236
+7667662787,2024/7/31,Cancelled,ORD1651,Suite 487,5685,Dawn Gateway,Deannaville,Tuvalu,75236
+5874006770,2024/3/13,Delivered,ORD9989,Suite 487,5685,Dawn Gateway,Deannaville,Tuvalu,75236
+9324775539,2024/2/12,Pending,ORD5531,Apt. 293,84,Ricardo Tunnel,Barronchester,Jamaica,82708
+9965730923,2024/10/1,Postponed,ORD2020,Apt. 293,84,Ricardo Tunnel,Barronchester,Jamaica,82708
+3995328837,2024/3/2,Pending,ORD9061,Suite 133,659,Davis Ridge,Taylorfurt,Faroe Islands,1248
+2853643779,2024/3/26,Postponed,ORD5789,Apt. 558,65550,Berry Point,Paigehaven,Gabon,11782
+4099111341,2024/3/22,Cancelled,ORD1309,Apt. 422,40970,Sarah Plains,Rhondaton,Guam,5893
+7314706733,2024/2/20,Cancelled,ORD1391,Suite 202,711,Rodney Point,South Allisonfort,United States of America,75271
+9532462339,2024/2/10,Pending,ORD6422,Suite 202,711,Rodney Point,South Allisonfort,United States of America,75271
+2472500062,2024/2/3,Cancelled,ORD3425,Suite 202,711,Rodney Point,South Allisonfort,United States of America,75271
+7548885086,2024/10/19,Pending,ORD8815,Apt. 216,8142,Rodriguez River,Brittanyhaven,Congo,36631
+2425611545,2024/8/24,Delivered,ORD5746,Apt. 216,8142,Rodriguez River,Brittanyhaven,Congo,36631
+1896573420,2024/8/27,Postponed,ORD4077,Suite 411,5990,Derek Dale,North Dawn,Mexico,32728
+9102641822,2024/3/1,Postponed,ORD2837,Apt. 054,81516,James Extensions,Lake Maria,Saint Kitts and Nevis,97606
+7040518630,2024/1/28,Pending,ORD5806,Apt. 882,9855,Knight Mills,West Charlesville,Slovenia,13154
+1475701761,2024/4/18,Pending,ORD1529,Apt. 882,9855,Knight Mills,West Charlesville,Slovenia,13154
+7270157563,2023/11/22,Pending,ORD6404,Apt. 882,9855,Knight Mills,West Charlesville,Slovenia,13154
+1839409441,2024/7/4,Delivered,ORD8329,Suite 726,752,Judith Knoll,Jasonside,Somalia,98236
+6857881593,2023/11/14,Delivered,ORD5102,Suite 443,80941,Diana Junction,Elizabethville,Azerbaijan,96898
+2451073752,2024/5/12,Postponed,ORD3130,Suite 443,80941,Diana Junction,Elizabethville,Azerbaijan,96898
+3485509718,2024/8/15,Pending,ORD7907,Suite 443,80941,Diana Junction,Elizabethville,Azerbaijan,96898
+4503369988,2024/5/12,Cancelled,ORD6839,Apt. 144,87042,Christopher Spurs,Catherineton,Chile,79520
+2514755060,2024/8/13,Postponed,ORD1064,Apt. 144,87042,Christopher Spurs,Catherineton,Chile,79520
+2490248161,2024/9/21,Delivered,ORD6004,Suite 800,99316,Michael Radial,Castanedaburgh,United States Virgin Islands,25550
+4744647590,2024/3/4,Postponed,ORD1680,Suite 952,5114,Stewart Land,South Jacqueline,Rwanda,53291
+8574953835,2024/9/8,Pending,ORD5755,Suite 854,55401,Jennifer Shores,New Shelby,Sao Tome and Principe,57200
+7307410462,2024/5/6,Cancelled,ORD8758,Suite 854,55401,Jennifer Shores,New Shelby,Sao Tome and Principe,57200
+2652934527,2024/5/14,Postponed,ORD8275,Apt. 961,818,Sampson Island,Mitchelltown,Uganda,18920
+3903852857,2024/5/20,Cancelled,ORD8897,Apt. 961,818,Sampson Island,Mitchelltown,Uganda,18920
+8318863223,2024/8/3,Postponed,ORD2838,Suite 347,183,Alexander Extension,Lake Ashley,Iran,1688
+1059627291,2024/4/30,Pending,ORD5760,Apt. 883,167,Mckenzie Prairie,New Scott,Mauritius,10724
+4358934751,2024/3/27,Pending,ORD9354,Apt. 883,167,Mckenzie Prairie,New Scott,Mauritius,10724
+1784917051,2023/11/29,Pending,ORD6127,Suite 329,71770,Monica Mill,Robertborough,Saint Helena,81519
+4354553946,2024/1/28,Postponed,ORD6030,Suite 329,71770,Monica Mill,Robertborough,Saint Helena,81519
+2553254766,2024/9/3,Cancelled,ORD9569,Suite 329,71770,Monica Mill,Robertborough,Saint Helena,81519
+6815721289,2024/8/16,Delivered,ORD8721,Suite 662,8206,Patricia Mission,Jonathanchester,Christmas Island,87500
+5170660218,2024/3/14,Delivered,ORD9583,Suite 662,8206,Patricia Mission,Jonathanchester,Christmas Island,87500
+7841352606,2024/5/26,Pending,ORD5286,Apt. 611,2353,Henry Manors,Port Gabrielachester,Guernsey,95232
+6551851302,2024/6/30,Delivered,ORD9518,Apt. 611,2353,Henry Manors,Port Gabrielachester,Guernsey,95232
+9645124419,2024/10/7,Pending,ORD2226,Apt. 611,2353,Henry Manors,Port Gabrielachester,Guernsey,95232
+3144942908,2024/2/10,Pending,ORD6221,Suite 077,15097,Smith Bypass,Kristiland,Nepal,1134
+3874924224,2024/3/25,Pending,ORD2514,Suite 344,73335,Eric Isle,Griffinside,Andorra,63815
+8956539474,2024/7/9,Delivered,ORD7709,Suite 344,73335,Eric Isle,Griffinside,Andorra,63815
+5269854996,2024/5/22,Delivered,ORD1665,Suite 344,73335,Eric Isle,Griffinside,Andorra,63815
+4363147939,2024/10/1,Delivered,ORD9134,Apt. 025,161,Paula Port,Hendersonhaven,American Samoa,39918
+8746979384,2024/4/19,Postponed,ORD2197,Apt. 124,53824,Kristen Rue,Angelafort,Saint Barthelemy,54536
+9522305729,2024/1/19,Cancelled,ORD8349,Apt. 124,53824,Kristen Rue,Angelafort,Saint Barthelemy,54536
+9065721045,2024/3/26,Delivered,ORD4399,Suite 086,747,Daniel Hills,Christineview,Saint Pierre and Miquelon,74263
+6265267288,2024/4/19,Postponed,ORD8427,Suite 086,747,Daniel Hills,Christineview,Saint Pierre and Miquelon,74263
+5010481850,2024/2/5,Cancelled,ORD4721,Apt. 254,1330,Vaughan Dam,West Monica,Holy See (Vatican City State),87691
+3763615612,2024/11/2,Delivered,ORD7508,Apt. 254,1330,Vaughan Dam,West Monica,Holy See (Vatican City State),87691
+4806769606,2024/4/5,Delivered,ORD9082,Apt. 254,1330,Vaughan Dam,West Monica,Holy See (Vatican City State),87691
+9004583753,2024/3/25,Pending,ORD7415,Suite 664,53293,Sanders Rapid,Kochtown,Guadeloupe,20465
+2702622128,2024/3/13,Delivered,ORD7643,Suite 664,53293,Sanders Rapid,Kochtown,Guadeloupe,20465
+2130795037,2024/10/18,Delivered,ORD4459,Suite 664,53293,Sanders Rapid,Kochtown,Guadeloupe,20465
+6603738612,2024/9/1,Cancelled,ORD5935,Suite 537,927,Nelson Parkway,Dustinborough,Western Sahara,87623
+5390270190,2024/2/10,Delivered,ORD6836,Suite 061,2985,Carrie Groves,Lawsonville,Mexico,90671
+4879444188,2024/6/28,Pending,ORD3640,Suite 061,2985,Carrie Groves,Lawsonville,Mexico,90671
+4928394394,2024/9/11,Postponed,ORD1690,Suite 363,5167,Linda Turnpike,Amandaport,Venezuela,73424
+1883049966,2024/3/3,Delivered,ORD6036,Suite 363,5167,Linda Turnpike,Amandaport,Venezuela,73424
+1807728621,2024/2/27,Postponed,ORD1187,Apt. 499,9196,David Mountain,Jennifershire,Senegal,34484
+7470934697,2024/4/10,Postponed,ORD4076,Apt. 499,9196,David Mountain,Jennifershire,Senegal,34484
+9687180425,2024/5/25,Cancelled,ORD2126,Apt. 499,9196,David Mountain,Jennifershire,Senegal,34484
+4974534119,2024/10/7,Cancelled,ORD7149,Suite 931,218,Anna Spring,Lake Julianhaven,Portugal,66630
+8188405955,2024/8/16,Delivered,ORD9826,Apt. 866,7088,Smith Village,Lake Carrie,Iraq,92946
+6687805408,2023/12/20,Cancelled,ORD6559,Apt. 358,44405,Fields Square,North Jeffreyland,South Africa,91732
+9778006920,2024/1/8,Delivered,ORD2297,Suite 997,18076,Lauren River,Lake Christian,Indonesia,1277
+8020874252,2024/10/20,Postponed,ORD7408,Suite 997,18076,Lauren River,Lake Christian,Indonesia,1277
+3313976516,2024/9/23,Pending,ORD9514,Suite 835,453,Kerri Loaf,Mooreshire,Puerto Rico,37863
+4917223914,2024/10/5,Delivered,ORD5168,Suite 835,453,Kerri Loaf,Mooreshire,Puerto Rico,37863
+4472120614,2024/9/14,Delivered,ORD8190,Suite 835,453,Kerri Loaf,Mooreshire,Puerto Rico,37863
+1646821357,2024/2/21,Postponed,ORD3030,Suite 943,5066,Amber Unions,Walterburgh,Saint Pierre and Miquelon,33172
+7924431428,2023/11/27,Pending,ORD4296,Suite 943,5066,Amber Unions,Walterburgh,Saint Pierre and Miquelon,33172
+9566919486,2024/8/30,Pending,ORD4835,Apt. 136,88469,Luis Rapid,Lake Amystad,Cambodia,77985
+6765075064,2024/7/30,Delivered,ORD8725,Apt. 547,202,Walters Cove,Port Jason,Mozambique,18463
+6026448643,2024/10/4,Cancelled,ORD4316,Apt. 547,202,Walters Cove,Port Jason,Mozambique,18463
+8400001421,2024/8/8,Postponed,ORD8857,Apt. 771,435,Ellis Cape,Smithchester,Maldives,73575
+3956632397,2024/9/5,Pending,ORD6440,Suite 687,7685,Anderson Wells,Smithborough,Guinea,45058
+4141416103,2023/11/22,Postponed,ORD3857,Suite 687,7685,Anderson Wells,Smithborough,Guinea,45058
+3841695177,2024/7/25,Postponed,ORD8160,Suite 687,7685,Anderson Wells,Smithborough,Guinea,45058
+5858603573,2024/4/24,Delivered,ORD6811,Suite 233,8281,Nicholas Ferry,Port Parkerhaven,Libyan Arab Jamahiriya,15336
+4901936053,2024/9/21,Cancelled,ORD1306,Apt. 765,343,Salinas Route,Nancytown,Western Sahara,15486
+6012403433,2024/2/26,Pending,ORD5692,Apt. 083,5802,Warner Brook,Murillomouth,Guinea,66405
+8499350857,2024/11/5,Cancelled,ORD1022,Apt. 083,5802,Warner Brook,Murillomouth,Guinea,66405
+2336520235,2024/2/21,Postponed,ORD1417,Apt. 083,5802,Warner Brook,Murillomouth,Guinea,66405
+4552285903,2024/2/8,Pending,ORD9615,Suite 660,498,Laura Street,Ronaldfurt,Bolivia,2160
+6730739345,2024/1/25,Postponed,ORD5879,Suite 251,9675,Hunter Lake,South Ryan,Monaco,72596
+8737795155,2024/9/8,Postponed,ORD6784,Suite 251,9675,Hunter Lake,South Ryan,Monaco,72596
+3432432690,2024/3/28,Pending,ORD4456,Apt. 866,2834,Swanson Run,Davistown,Algeria,60645
+8097103268,2024/4/11,Cancelled,ORD8543,Apt. 866,2834,Swanson Run,Davistown,Algeria,60645
+1823621375,2024/1/31,Delivered,ORD3445,Apt. 866,2834,Swanson Run,Davistown,Algeria,60645
+5990817524,2024/1/28,Postponed,ORD1764,Apt. 792,39759,Robert Ramp,Rebeccastad,Kazakhstan,97654
+7687700203,2024/8/3,Postponed,ORD3037,Apt. 792,39759,Robert Ramp,Rebeccastad,Kazakhstan,97654
+2775735380,2023/11/21,Pending,ORD6161,Apt. 792,39759,Robert Ramp,Rebeccastad,Kazakhstan,97654

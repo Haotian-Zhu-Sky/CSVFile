@@ -1,0 +1,78 @@
+ReviewID,ReviewDate,Rating,Text,ProductID,CustomerEmail,OrderID
+REV1000,2024/8/31,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD007,jacqueline23@galvan.com,ORD4641
+REV1001,2024/9/5,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD054,jacqueline23@galvan.com,ORD4641
+REV1002,2024/3/15,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD078,jacqueline23@galvan.com,ORD9989
+REV1003,2024/3/19,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD017,jacqueline23@galvan.com,ORD9989
+REV1004,2024/3/19,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD081,jacqueline23@galvan.com,ORD9989
+REV1005,2024/8/30,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD021,suzanne29@hotmail.com,ORD5746
+REV1006,2024/8/30,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD009,suzanne29@hotmail.com,ORD5746
+REV1007,2024/7/7,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD052,michelle49@hotmail.com,ORD8329
+REV1008,2024/7/7,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD013,michelle49@hotmail.com,ORD8329
+REV1009,2024/7/9,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD100,michelle49@hotmail.com,ORD8329
+REV1010,2024/7/8,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD051,michelle49@hotmail.com,ORD8329
+REV1011,2023/11/21,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD027,charles24@hotmail.com,ORD5102
+REV1012,2023/11/17,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD037,charles24@hotmail.com,ORD5102
+REV1013,2023/11/19,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD060,charles24@hotmail.com,ORD5102
+REV1014,2023/11/21,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD010,charles24@hotmail.com,ORD5102
+REV1015,2024/9/28,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD077,gutierrezsteven@chandler.info,ORD6004
+REV1016,2024/9/22,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD079,gutierrezsteven@chandler.info,ORD6004
+REV1017,2024/9/24,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD084,gutierrezsteven@chandler.info,ORD6004
+REV1018,2024/9/25,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD015,gutierrezsteven@chandler.info,ORD6004
+REV1019,2024/9/25,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD049,gutierrezsteven@chandler.info,ORD6004
+REV1020,2024/8/20,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD100,wayne62@yahoo.com,ORD8721
+REV1020,2024/8/20,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD100,wayne62@yahoo.com,ORD9583
+REV1021,2024/8/22,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD049,wayne62@yahoo.com,ORD8721
+REV1022,2024/8/23,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD081,wayne62@yahoo.com,ORD8721
+REV1023,2024/8/17,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD059,wayne62@yahoo.com,ORD8721
+REV1024,2024/8/22,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD025,wayne62@yahoo.com,ORD8721
+REV1025,2024/3/19,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD021,wayne62@yahoo.com,ORD9583
+REV1026,2024/3/15,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD042,wayne62@yahoo.com,ORD9583
+REV1027,2024/3/18,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD100,wayne62@yahoo.com,ORD8721
+REV1027,2024/3/18,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD100,wayne62@yahoo.com,ORD9583
+REV1028,2024/7/5,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD086,lisa12@hotmail.com,ORD9518
+REV1029,2024/7/2,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD020,lisa12@hotmail.com,ORD9518
+REV1030,2024/7/3,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD080,lisa12@hotmail.com,ORD9518
+REV1031,2024/7/10,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD061,andersonchristopher@gmail.com,ORD7709
+REV1032,2024/7/13,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD066,andersonchristopher@gmail.com,ORD7709
+REV1033,2024/7/13,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD026,andersonchristopher@gmail.com,ORD7709
+REV1034,2024/5/28,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD074,andersonchristopher@gmail.com,ORD1665
+REV1035,2024/5/23,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD083,andersonchristopher@gmail.com,ORD1665
+REV1036,2024/10/6,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD031,rebeccastevens@figueroa.org,ORD9134
+REV1037,2024/10/8,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD058,rebeccastevens@figueroa.org,ORD9134
+REV1038,2024/10/5,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD098,rebeccastevens@figueroa.org,ORD9134
+REV1039,2024/10/4,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD064,rebeccastevens@figueroa.org,ORD9134
+REV1040,2024/3/27,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD089,bfernandez@chung.com,ORD4399
+REV1041,2024/4/2,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD049,bfernandez@chung.com,ORD4399
+REV1042,2024/3/27,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD070,bfernandez@chung.com,ORD4399
+REV1043,2024/11/5,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD022,tonyarogers@hotmail.com,ORD7508
+REV1044,2024/11/9,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD094,tonyarogers@hotmail.com,ORD7508
+REV1045,2024/11/7,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD006,tonyarogers@hotmail.com,ORD7508
+REV1046,2024/11/3,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD089,tonyarogers@hotmail.com,ORD7508
+REV1047,2024/4/9,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD057,tonyarogers@hotmail.com,ORD9082
+REV1048,2024/4/7,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD066,tonyarogers@hotmail.com,ORD9082
+REV1049,2024/3/16,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD069,charper@roberts-farley.com,ORD7415
+REV1049,2024/3/16,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD069,charper@roberts-farley.com,ORD7643
+REV1050,2024/10/23,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD051,charper@roberts-farley.com,ORD4459
+REV1051,2024/10/20,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD048,charper@roberts-farley.com,ORD4459
+REV1052,2024/10/19,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD088,charper@roberts-farley.com,ORD4459
+REV1053,2024/10/22,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD044,charper@roberts-farley.com,ORD4459
+REV1054,2024/10/25,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD011,charper@roberts-farley.com,ORD4459
+REV1055,2024/2/11,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD015,mullensarah@yahoo.com,ORD6836
+REV1056,2024/3/6,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD057,normaoconnor@banks-holt.com,ORD6036
+REV1057,2024/3/10,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD012,normaoconnor@banks-holt.com,ORD6036
+REV1058,2024/8/21,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD037,bensonmichael@hotmail.com,ORD9826
+REV1059,2024/1/13,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD065,hgibson@hotmail.com,ORD2297
+REV1060,2024/1/13,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD040,hgibson@hotmail.com,ORD2297
+REV1061,2024/1/13,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD067,hgibson@hotmail.com,ORD2297
+REV1062,2024/1/14,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD084,hgibson@hotmail.com,ORD2297
+REV1063,2024/1/14,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD021,hgibson@hotmail.com,ORD2297
+REV1064,2024/10/7,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD062,olsonanna@chavez.org,ORD5168
+REV1065,2024/9/16,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD055,olsonanna@chavez.org,ORD8190
+REV1066,2024/8/4,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD089,castillozachary@smith-matthews.com,ORD8725
+REV1067,2024/4/29,4,"Good quality overall. The product works well, and I'm generally satisfied with it. It meets most of my expectations.",PROD064,hensonyolanda@morris-saunders.com,ORD6811
+REV1068,2024/4/27,1,Extremely disappointed. The product did not match the description at all and was of very poor quality. Definitely not recommended.,PROD043,hensonyolanda@morris-saunders.com,ORD6811
+REV1069,2024/4/25,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD040,hensonyolanda@morris-saunders.com,ORD6811
+REV1070,2024/4/26,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD057,hensonyolanda@morris-saunders.com,ORD6811
+REV1071,2024/2/3,3,"An average product. It performs decently, but there are areas that could use improvement. It's okay for the price, but I expected a bit more.",PROD055,vangeric@gmail.com,ORD3445
+REV1072,2024/2/4,5,"Fantastic product! Excellent quality, works exactly as advertised, and I couldn't be happier. Highly recommended for anyone in the market for this.",PROD080,vangeric@gmail.com,ORD3445
+REV1073,2024/2/4,2,The product was below expectations. It had several flaws and didn't function as advertised. Not worth the money.,PROD096,vangeric@gmail.com,ORD3445
